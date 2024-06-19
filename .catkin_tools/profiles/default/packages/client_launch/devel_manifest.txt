@@ -1,0 +1,5 @@
+kr_autonomous_flight/autonomy_core/client/client_launch
+/home/rajendra/kr_ws/devel/.private/client_launch/cmake.lock /home/rajendra/kr_ws/devel/./cmake.lock
+/home/rajendra/kr_ws/devel/.private/client_launch/share/client_launch/cmake/client_launchConfig.cmake /home/rajendra/kr_ws/devel/share/client_launch/cmake/client_launchConfig.cmake
+/home/rajendra/kr_ws/devel/.private/client_launch/share/client_launch/cmake/client_launchConfig-version.cmake /home/rajendra/kr_ws/devel/share/client_launch/cmake/client_launchConfig-version.cmake
+/home/rajendra/kr_ws/devel/.private/client_launch/lib/pkgconfig/client_launch.pc /home/rajendra/kr_ws/devel/lib/pkgconfig/client_launch.pc

@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/waypoint_navigation_plugin/cmake/waypoint_navigation_pluginConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/waypoint_navigation_plugin/cmake/waypoint_navigation_pluginConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libwaypoint_nav_plugin.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/waypoint_navigation_plugin.pc

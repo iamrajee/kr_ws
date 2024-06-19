@@ -1,0 +1,28 @@
+[35m[1mScanning dependencies of target publish_rotate[0m
+[  7%] [32mBuilding CXX object CMakeFiles/publish_rotate.dir/src/publish_rotate.cpp.o[0m
+[ 14%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/publish_rotate[0m
+[ 14%] Built target publish_rotate
+[35m[1mScanning dependencies of target publish_horizon[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/publish_horizon.dir/src/publish_horizon.cpp.o[0m
+[35m[1mScanning dependencies of target publish_tf[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/publish_tf.dir/src/publish_tf.cpp.o[0m
+[ 35%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/publish_horizon[0m
+[ 35%] Built target publish_horizon
+[35m[1mScanning dependencies of target change_header[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/change_header.dir/src/change_header.cpp.o[0m
+[35m[1mScanning dependencies of target msg_to_tf[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/msg_to_tf.dir/src/msg_to_tf.cpp.o[0m
+[35m[1mScanning dependencies of target change_frame[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/change_frame.dir/src/change_frame.cpp.o[0m
+[35m[1mScanning dependencies of target change_odom[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/change_odom.dir/src/change_odom.cpp.o[0m
+[ 71%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/change_header[0m
+[ 71%] Built target change_header
+[ 78%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/publish_tf[0m
+[ 85%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/msg_to_tf[0m
+[ 85%] Built target publish_tf
+[ 85%] Built target msg_to_tf
+[ 92%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/change_odom[0m
+[ 92%] Built target change_odom
+[100%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mrsl_quadrotor_utils/lib/mrsl_quadrotor_utils/change_frame[0m
+[100%] Built target change_frame

@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/kr_trackers/cmake/kr_trackersConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/kr_trackers/cmake/kr_trackersConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libkr_trackers.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/kr_trackers.pc

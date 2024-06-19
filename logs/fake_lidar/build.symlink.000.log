@@ -1,0 +1,5 @@
+Symlinking /home/rajendra/kr_ws/devel/share/fake_lidar/cmake/fake_lidarConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/fake_lidar/cmake/fake_lidarConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/fake_lidar/fake_lidar_node2
+Symlinking /home/rajendra/kr_ws/devel/lib/fake_lidar/fake_lidar_node
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/fake_lidar.pc

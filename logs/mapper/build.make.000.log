@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target mapper[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/mapper.dir/src/tf_listener.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mapper.dir/src/voxel_mapper.cpp.o[0m
+[ 60%] [32m[1mLinking CXX shared library /home/rajendra/kr_ws/devel/.private/mapper/lib/libmapper.so[0m
+[ 60%] Built target mapper
+[35m[1mScanning dependencies of target local_global_mapper[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/local_global_mapper.dir/src/local_global_mapper.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/mapper/lib/mapper/local_global_mapper[0m
+[100%] Built target local_global_mapper

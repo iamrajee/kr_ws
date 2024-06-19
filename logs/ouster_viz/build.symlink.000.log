@@ -1,0 +1,5 @@
+Symlinking /home/rajendra/kr_ws/devel/share/ouster_viz/cmake/ouster_vizConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/ouster_viz/cmake/ouster_vizConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libouster_viz.a
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/ouster_viz.pc
+Symlinking /home/rajendra/kr_ws/devel/lib/ouster_viz/viz

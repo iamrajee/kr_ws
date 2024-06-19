@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target traj_opt_ros[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/traj_opt_ros.dir/src/ros_bridge.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/traj_opt_ros.dir/src/msg_traj.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/traj_opt_ros.dir/src/trajectory.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/traj_opt_ros.dir/src/polynomial_basis.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/rajendra/kr_ws/devel/.private/traj_opt_ros/lib/libtraj_opt_ros.so[0m
+[100%] Built target traj_opt_ros

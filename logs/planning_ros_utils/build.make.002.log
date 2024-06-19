@@ -1,0 +1,6 @@
+[  5%] [34m[1mAutomatic MOC for target planning_ros_utils[0m
+[  5%] Built target planning_ros_utils_autogen
+[ 25%] Built target planning_ros_utils
+[ 30%] [34m[1mAutomatic MOC for target planning_rviz_plugins[0m
+[ 30%] Built target planning_rviz_plugins_autogen
+[100%] Built target planning_rviz_plugins

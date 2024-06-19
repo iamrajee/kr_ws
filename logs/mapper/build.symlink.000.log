@@ -1,0 +1,5 @@
+Symlinking /home/rajendra/kr_ws/devel/share/mapper/cmake/mapperConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/mapper/cmake/mapperConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libmapper.so
+Symlinking /home/rajendra/kr_ws/devel/lib/mapper/local_global_mapper
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/mapper.pc

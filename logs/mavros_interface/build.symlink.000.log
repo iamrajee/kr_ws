@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/mavros_interface/cmake/mavros_interfaceConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/mavros_interface/cmake/mavros_interfaceConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libso3cmd_to_mavros_nodelet.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/mavros_interface.pc

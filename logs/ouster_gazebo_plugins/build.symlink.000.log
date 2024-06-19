@@ -1,0 +1,5 @@
+Symlinking /home/rajendra/kr_ws/devel/share/ouster_gazebo_plugins/cmake/ouster_gazebo_pluginsConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/ouster_gazebo_plugins/cmake/ouster_gazebo_pluginsConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libgazebo_ros_ouster_laser.so
+Symlinking /home/rajendra/kr_ws/devel/lib/libgazebo_ros_ouster_gpu_laser.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/ouster_gazebo_plugins.pc

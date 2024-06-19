@@ -1,0 +1,13 @@
+[ 25%] [34m[1mGenerating ui_WaypointNavigation.h[0m
+[ 25%] [34m[1mGenerating src/moc_waypoint_nav_frame.cpp[0m
+[ 37%] [34m[1mGenerating src/moc_waypoint_nav_tool.cpp[0m
+[35m[1mScanning dependencies of target waypoint_nav_plugin[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/waypoint_nav_plugin.dir/src/waypoint_nav_frame.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/waypoint_nav_plugin.dir/src/waypoint_nav_tool.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/waypoint_nav_plugin.dir/src/moc_waypoint_nav_frame.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/waypoint_nav_plugin.dir/src/moc_waypoint_nav_tool.cpp.o[0m
+[01m[K/home/rajendra/kr_ws/src/kr_autonomous_flight/waypoint_navigation_plugin/src/waypoint_nav_frame.cpp:62:3:[m[K [01;35m[Kwarning: [m[Kinline variables are only available with ‘[01m[K-std=c++17[m[K’ or ‘[01m[K-std=gnu++17[m[K’
+   62 |   [01;35m[Kinline[m[K static const std::string kPosition = "position";
+      |   [01;35m[K^~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library /home/rajendra/kr_ws/devel/.private/waypoint_navigation_plugin/lib/libwaypoint_nav_plugin.so[0m
+[100%] Built target waypoint_nav_plugin

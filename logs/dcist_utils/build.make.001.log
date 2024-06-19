@@ -1,0 +1,3 @@
+[ 33%] Built target playground
+[ 66%] Built target odom2tf
+[100%] Built target msckf_calib_gen

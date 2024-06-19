@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/jps3d/cmake/jps3dConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/jps3d/cmake/jps3dConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libjps3d.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/jps3d.pc

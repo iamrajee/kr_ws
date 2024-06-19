@@ -1,0 +1,13 @@
+Symlinking /home/rajendra/kr_ws/devel/share/action_planner/docs/ActionPlannerConfig.dox
+Symlinking /home/rajendra/kr_ws/devel/share/action_planner/docs/ActionPlannerConfig.wikidoc
+Symlinking /home/rajendra/kr_ws/devel/share/action_planner/docs/ActionPlannerConfig-usage.dox
+Symlinking /home/rajendra/kr_ws/devel/share/action_planner/cmake/action_plannerConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/action_planner/cmake/action_plannerConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/include/action_planner/ActionPlannerConfig.h
+Symlinking /home/rajendra/kr_ws/devel/lib/libaction_planner.so
+Symlinking /home/rajendra/kr_ws/devel/lib/python3/dist-packages/action_planner/__init__.py
+Symlinking /home/rajendra/kr_ws/devel/lib/python3/dist-packages/action_planner/cfg/__init__.py
+Symlinking /home/rajendra/kr_ws/devel/lib/python3/dist-packages/action_planner/cfg/ActionPlannerConfig.py
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/action_planner.pc
+Symlinking /home/rajendra/kr_ws/devel/lib/action_planner/global_plan_server
+Symlinking /home/rajendra/kr_ws/devel/lib/action_planner/local_plan_server

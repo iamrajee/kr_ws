@@ -1,0 +1,45 @@
+CMake Deprecation Warning at /usr/src/googletest/CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googlemock/CMakeLists.txt:45 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googletest/CMakeLists.txt:56 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+[33m[1mCMake Warning[0m at /home/rajendra/kr_ws/src/kr_autonomous_flight/kr_mav_control/interfaces/kr_rosflight_interface/CMakeLists.txt:24 (find_package):
+  By not providing "Findrosflight_msgs.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "rosflight_msgs", but CMake did not find one.
+
+  Could not find a package configuration file provided by "rosflight_msgs"
+  with any of the following names:
+
+    rosflight_msgsConfig.cmake
+    rosflight_msgs-config.cmake
+
+  Add the installation prefix of "rosflight_msgs" to CMAKE_PREFIX_PATH or set
+  "rosflight_msgs_DIR" to a directory containing one of the above files.  If
+  "rosflight_msgs" provides a separate development package or SDK, be sure it
+  has been installed.
+
+
+[33m[1mCMake Warning[0m at /home/rajendra/kr_ws/src/kr_autonomous_flight/kr_mav_control/interfaces/kr_rosflight_interface/CMakeLists.txt:27 (message):
+  NOTE: rosflight_msgs not found so not building kr_rosflight_interface
+
+

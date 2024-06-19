@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/kr_serial_interface/cmake/kr_serial_interfaceConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/kr_serial_interface/cmake/kr_serial_interfaceConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libkr_serial_interface.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/kr_serial_interface.pc

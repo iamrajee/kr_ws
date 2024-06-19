@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target jps3d[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/jps3d.dir/src/graph_search.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/jps3d.dir/src/jps_planner.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/jps3d.dir/src/map_util.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/rajendra/kr_ws/devel/.private/jps3d/lib/libjps3d.so[0m
+[100%] Built target jps3d

@@ -1,0 +1,6 @@
+Symlinking /home/rajendra/kr_ws/devel/share/dcist_utils/cmake/dcist_utilsConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/dcist_utils/cmake/dcist_utilsConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/dcist_utils/playground
+Symlinking /home/rajendra/kr_ws/devel/lib/dcist_utils/odom2tf
+Symlinking /home/rajendra/kr_ws/devel/lib/dcist_utils/msckf_calib_gen
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/dcist_utils.pc

@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/smach_ros/cmake/smach_rosConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/smach_ros/cmake/smach_rosConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/python3/dist-packages/smach_ros/__init__.py
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/smach_ros.pc

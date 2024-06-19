@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target coverage_utils[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/coverage_utils.dir/src/coverage_utils.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/coverage_utils.dir/src/utils.cpp.o[0m
+[ 60%] [32m[1mLinking CXX shared library /home/rajendra/kr_ws/devel/.private/coverage_utils/lib/libcoverage_utils.so[0m
+[ 60%] Built target coverage_utils
+[35m[1mScanning dependencies of target coverage_utils_node[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/coverage_utils_node.dir/src/coverage_utils_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/coverage_utils/lib/coverage_utils/coverage_utils_node[0m
+[100%] Built target coverage_utils_node

@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/kr_mesh_visualization/cmake/kr_mesh_visualizationConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/kr_mesh_visualization/cmake/kr_mesh_visualizationConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/kr_mesh_visualization/kr_mesh_visualization
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/kr_mesh_visualization.pc

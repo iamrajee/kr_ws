@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/rqt_quadrotor_safety/cmake/rqt_quadrotor_safetyConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/rqt_quadrotor_safety/cmake/rqt_quadrotor_safetyConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/python3/dist-packages/rqt_quadrotor_safety/__init__.py
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/rqt_quadrotor_safety.pc

@@ -1,0 +1,2 @@
+kr_autonomous_flight/kr_mav_control/interfaces/kr_qualcomm_interface
+/home/rajendra/kr_ws/devel/.private/kr_qualcomm_interface/cmake.lock /home/rajendra/kr_ws/devel/./cmake.lock

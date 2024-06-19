@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/mrsl_mobile_object/cmake/mrsl_mobile_objectConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/mrsl_mobile_object/cmake/mrsl_mobile_objectConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libmrsl_mobile_object.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/mrsl_mobile_object.pc

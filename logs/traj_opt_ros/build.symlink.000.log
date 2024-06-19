@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/traj_opt_ros/cmake/traj_opt_rosConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/traj_opt_ros/cmake/traj_opt_rosConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libtraj_opt_ros.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/traj_opt_ros.pc

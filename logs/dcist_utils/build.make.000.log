@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target playground[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/playground.dir/src/playground.cpp.o[0m
+[ 33%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/dcist_utils/lib/dcist_utils/playground[0m
+[ 33%] Built target playground
+[35m[1mScanning dependencies of target odom2tf[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/odom2tf.dir/src/odom2tf.cpp.o[0m
+[35m[1mScanning dependencies of target msckf_calib_gen[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/msckf_calib_gen.dir/src/msckf_calib_gen.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/dcist_utils/lib/dcist_utils/odom2tf[0m
+[ 83%] Built target odom2tf
+[100%] [32m[1mLinking CXX executable /home/rajendra/kr_ws/devel/.private/dcist_utils/lib/dcist_utils/msckf_calib_gen[0m
+[100%] Built target msckf_calib_gen

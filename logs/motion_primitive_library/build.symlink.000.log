@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/motion_primitive_library/cmake/motion_primitive_libraryConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/motion_primitive_library/cmake/motion_primitive_libraryConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libmotion_primitive_library.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/motion_primitive_library.pc

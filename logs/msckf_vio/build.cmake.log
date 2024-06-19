@@ -1,0 +1,82 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The CXX compiler identification is GNU 9.3.0
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ - skipped
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/rajendra/kr_ws/devel/.private/msckf_vio
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/rajendra/kr_ws/devel;/opt/ros/noetic
+[36m--[0m This workspace overlays: /home/rajendra/kr_ws/devel;/opt/ros/noetic
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python3
+[36m--[0m Using Debian Python package layout
+[36m--[0m Found PY_em: /usr/lib/python3/dist-packages/em.py
+[36m--[0m Using empy: /usr/lib/python3/dist-packages/em.py
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/rajendra/kr_ws/build/msckf_vio/test_results
+[36m--[0m Forcing gtest/gmock from source, though one was otherwise available.
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+CMake Deprecation Warning at /usr/src/googletest/CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+[36m--[0m The C compiler identification is GNU 9.3.0
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Check for working C compiler: /usr/bin/cc - skipped
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+CMake Deprecation Warning at /usr/src/googletest/googlemock/CMakeLists.txt:45 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googletest/CMakeLists.txt:56 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+[36m--[0m Found PythonInterp: /usr/bin/python3 (found version "3.8.10")
+[36m--[0m Found Threads: TRUE
+[36m--[0m Using Python nosetests: /usr/bin/nosetests3
+[36m--[0m catkin 0.8.10
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0")
+[36m--[0m Found OpenCV: /usr/local (found version "3.4.6")
+[36m--[0m Found AMD headers in: /usr/include/suitesparse
+[36m--[0m Found AMD library: /usr/lib/x86_64-linux-gnu/libamd.so
+[36m--[0m Found CAMD headers in: /usr/include/suitesparse
+[36m--[0m Found CAMD library: /usr/lib/x86_64-linux-gnu/libcamd.so
+[36m--[0m Found COLAMD headers in: /usr/include/suitesparse
+[36m--[0m Found COLAMD library: /usr/lib/x86_64-linux-gnu/libcolamd.so
+[36m--[0m Found CCOLAMD headers in: /usr/include/suitesparse
+[36m--[0m Found CCOLAMD library: /usr/lib/x86_64-linux-gnu/libccolamd.so
+[36m--[0m Found CHOLMOD headers in: /usr/include/suitesparse
+[36m--[0m Found CHOLMOD library: /usr/lib/x86_64-linux-gnu/libcholmod.so
+[36m--[0m Found SUITESPARSEQR headers in: /usr/include/suitesparse
+[36m--[0m Found SUITESPARSEQR library: /usr/lib/x86_64-linux-gnu/libspqr.so
+[36m--[0m Found Intel Thread Building Blocks (TBB) library (2020.1) assuming SuiteSparseQR was compiled with TBB.
+[36m--[0m Found SUITESPARSE_CONFIG headers in: /usr/include/suitesparse
+[36m--[0m Found SUITESPARSE_CONFIG library: /usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
+[36m--[0m Found LIBRT library: /usr/lib/x86_64-linux-gnu/librt.so
+[36m--[0m Adding librt: /usr/lib/x86_64-linux-gnu/librt.so to SuiteSparse_config libraries (required on Linux & Unix [not OSX] if SuiteSparse is compiled with timing).
+[36m--[0m Did not find METIS library (optional SuiteSparse dependency)
+[36m--[0m Found SuiteSparse: TRUE (found version "5.7.1")
+[36m--[0m msckf_vio: 3 messages, 0 services
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/rajendra/kr_ws/build/msckf_vio

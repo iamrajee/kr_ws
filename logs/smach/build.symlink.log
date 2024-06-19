@@ -1,0 +1,4 @@
+Symlinking /home/rajendra/kr_ws/devel/share/smach/cmake/smachConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/smach/cmake/smachConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/python3/dist-packages/smach/__init__.py
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/smach.pc

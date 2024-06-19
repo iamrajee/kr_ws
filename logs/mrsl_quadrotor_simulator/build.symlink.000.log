@@ -1,0 +1,5 @@
+Symlinking /home/rajendra/kr_ws/devel/share/mrsl_quadrotor_simulator/cmake/mrsl_quadrotor_simulatorConfig-version.cmake
+Symlinking /home/rajendra/kr_ws/devel/share/mrsl_quadrotor_simulator/cmake/mrsl_quadrotor_simulatorConfig.cmake
+Symlinking /home/rajendra/kr_ws/devel/lib/libmrsl_quadrotor_propulsion_trpy.so
+Symlinking /home/rajendra/kr_ws/devel/lib/libmrsl_quadrotor_propulsion.so
+Symlinking /home/rajendra/kr_ws/devel/lib/pkgconfig/mrsl_quadrotor_simulator.pc
